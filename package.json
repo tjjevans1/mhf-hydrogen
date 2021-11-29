@@ -2,6 +2,9 @@
   "name": "mhf-hydrogen",
   "description": "This is a dev environment for Hydrogen",
   "version": "0.7.0",
+  "engines": {
+    "node": "16.x"
+  },
   "license": "MIT",
   "private": true,
   "scripts": {
